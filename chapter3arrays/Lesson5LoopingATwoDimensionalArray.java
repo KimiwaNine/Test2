@@ -1,0 +1,18 @@
+package chapter3arrays;
+
+import java.util.Arrays;
+
+public class Lesson5LoopingATwoDimensionalArray {
+    public static void main(String[] args) {
+        int numbers[][] = { {1,2,3},{4,5,6},{7,8,9} };
+
+//        int numbers1[][] = new int [5][4];
+//        for(int[] ints : numbers1){
+//            System.out.print(Arrays.toString(ints)+" ");
+//        }
+//        System.out.println();
+
+
+
+    }
+}
